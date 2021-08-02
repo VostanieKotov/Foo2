@@ -1,1 +1,2 @@
 Hey, I`m studying how to use git
+Right now i`m updated MyFile
